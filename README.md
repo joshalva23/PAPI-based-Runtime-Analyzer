@@ -113,7 +113,7 @@ This concludes the installation.
 ## Running the program
 Build your instrumentor tool by referring commands.txt.  
 To check available papi_parameters, use papi_avail.  
-We have provided namely two features, -trace-papi-events="values separated by commas" and -output-file="name_of_file.csv".  
+We have provided namely two features, `-trace-papi-events="values separated by commas"` and `-output-file="name_of_file.csv"`.  
 
 ### Limitations
 The runtime library used here for PAPI is not threadsafe and may give errors accordingly.
