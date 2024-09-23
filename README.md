@@ -90,7 +90,7 @@ Build LLVM
 ```bash
 ninja -j HOW_MANY_PARALLEL_BUILDS
 ```
-**Step 5**
+**Step 5**  
 Install LLVM
 ```bash
 ninja install 
