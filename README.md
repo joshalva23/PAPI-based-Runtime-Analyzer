@@ -14,8 +14,8 @@ identify bottlenecks, optimize code, and improve overall system efficiency.
 
 NAME | USN 
 --- | --- 
-**Akshaja V Maiya** | **1RV21CS017**
 **Aditya Veer Singh** | **1RV21CS15**
+**Akshaja V Maiya** | **1RV21CS017**
 **Joshua Elias Alva** | **1RV21CS055**
 **Khushboo Srivastava** | **1RV21CS063**
 
